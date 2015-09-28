@@ -1,5 +1,5 @@
 [mysqld]
-init_connect='SET NAMES "utf8mb4" COLLATE "utf8mb4_unicode_ci'
+init_connect='SET NAMES "utf8mb4" COLLATE "utf8mb4_unicode_ci"'
 character_set_server=utf8mb4
 collation_server=utf8mb4_unicode_ci
 innodb_file_format=Barracuda
